@@ -9,7 +9,7 @@ choosing students randomly to answer questions
 # Exercise 1 
 This takes the Iris dataset and makes it into graphs and charts for easier interpretation
 
-  Import packages
+  Important actions: Import packages
 
   create python function to convert data to tables
                    
