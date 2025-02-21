@@ -8,11 +8,11 @@ choosing students randomly to answer questions
 
 # Exercise 1 
 This takes the Iris dataset and makes it into graphs and charts for easier interpretation
-  Import packages
-  create python function to convert data to tables
-  convert tables into visual charts
+Important actions: Import packages
+                   create python function to convert data to tables
+                   convert tables into visual charts
 
 # Exercise 2
 This takes the same iris data and creates charts specific to species of plant
-  Import packages
-  create python function to convert data to specific visual charts leaving out unneeded data
+Important actions: Import packages
+                   create python function to convert data to specific visual charts leaving out unneeded data
