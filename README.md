@@ -21,3 +21,12 @@ This takes the same iris data and creates charts specific to species of plant
   Important actions: Import packages
 
   create python function to convert data to specific visual charts leaving out unneeded data
+
+# Exercise 4
+This creates a map of the world with labels for oceans and my current location
+
+  Important actions: Import packages
+
+  Create a map
+
+  Create python functions to add text to a map in certain locations
